@@ -12,5 +12,5 @@ app.use(
 );
 
 app.listen(6600, () => {
-  console.log("serve is up");
+  console.log("serve is up at 6600");
 });
