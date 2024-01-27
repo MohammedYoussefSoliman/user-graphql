@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Harry",
+      "lastName": "Potter",
+      "age": 28,
+      "companyId": "comp-01"
+    },
+    {
+      "id": "43",
+      "firstName": "Mafalda",
+      "lastName": "Hopkirk",
+      "age": 42,
+      "companyId": "comp-01"
+    },
+    {
+      "id": "54",
+      "firstName": "Ronald",
+      "lastName": "Wesley",
+      "age": 28,
+      "companyId": "comp-02"
+    },
+    {
+      "id": "77",
+      "firstName": "Bellatrix",
+      "lastName": "Lestrange",
+      "age": 40,
+      "companyId": "comp-03"
+    }
+  ],
+  "companies": [
+    {
+      "id": "comp-01",
+      "name": "Apple",
+      "description": "a smart products company"
+    },
+    {
+      "id": "comp-02",
+      "name": "Google",
+      "description": "the leading software and search engine"
+    },
+    {
+      "id": "comp-03",
+      "name": "Glassdoor",
+      "description": "a thriving community for workplace conversations, driven by a simple mission: helping people everywhere find jobs and companies they love"
+    }
+  ]
+}
